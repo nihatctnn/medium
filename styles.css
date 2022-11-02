@@ -1,0 +1,46 @@
+body {
+font-family: 'PT Serif', serif;
+}
+
+#btn1 {
+color: rgba(255, 255, 255, 1);
+background: rgba(25, 25, 25, 1);
+padding: 7px 16px 9px;
+}
+
+#btn2 {
+font-size: 20px;
+color: rgba(255, 255, 255, 1);
+background: rgba(25, 25, 25, 1);
+line-height: 24px;
+padding: 7px 16px 9px;
+}
+
+.bg-yellow {
+background-color: #FFC017;
+}
+
+.border-bottom-dark {
+border-bottom: 1px solid rgb(41, 41, 41, 1)
+}
+
+.aside-buttons > li {
+margin-bottom: 10px;
+}
+
+.border-top-dark {
+border-top: 1px solid rgba(230, 230, 230, 1);
+}
+
+.ftr {
+color: rgba(117, 117, 117, 1);
+text-decoration: none;
+font-size: 14px;
+font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+margin-right: 1em;
+}
+
+.ftr:hover {
+text-decoration: none;
+color: rgba(117, 117, 117, 1);  
+}
